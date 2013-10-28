@@ -8,8 +8,10 @@
             "email": "kofels@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {
-
-    }
+    "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    },
+    "minimum-stability": "stable"
 }
