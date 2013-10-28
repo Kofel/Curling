@@ -1,0 +1,15 @@
+{
+    "name": "kofel/curling",
+    "description": "Library for smart HTTP requests. It wrapps php_curl.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jakub Kaflik",
+            "email": "kofels@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    }
+}
